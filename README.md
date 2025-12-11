@@ -1,4 +1,4 @@
-# Efficient Image Processing with Multi-Threading: Performance Benchmarking using OpenMP (Serial vs Parallel)
+# HPC-Accelerated Image Processing: OpenMP Multi-Threading Performance Benchmark (Serial vs Parallel)
 
 This project implements and compares **serial** and **parallel (OpenMP)** image-processing pipelines in C.  
 It processes a directory of images, applies a fixed sequence of filters, and records detailed **performance metrics** (wall-clock time, CPU time, and CPU cycles) for both versions. The results are exported as JSON files for further analysis and visualization.   
@@ -432,4 +432,5 @@ It can serve as a teaching example for:
 * Performance measurement,
 * Parallel programming with OpenMP,
 * And practical use of stb single-header libraries in C.
+
 

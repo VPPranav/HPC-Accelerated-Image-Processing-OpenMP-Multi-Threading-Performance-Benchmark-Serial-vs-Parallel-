@@ -290,6 +290,8 @@ C Benchmarks → JSON Logs → Flask API → Browser → Interactive Charts
 
 ---
 
+![Dashboard](diagrams/hpc_dashboard.jpg)
+
 ## 9. Building the Project
 
 ### 9.1 Requirements
@@ -352,6 +354,8 @@ http://127.0.0.1:5000/
 The dashboard can remain running while benchmarks are re-executed, allowing live updates of performance data.
 
 ---
+
+![Dashboard](diagrams/dashboard2.jpg)
 
 ## 12. Extending the Project
 
